@@ -1,5 +1,5 @@
 <h1>Grand Theft Auto Object Detection</h1>
-<video src='./gtaSA.mp4' width=180/> 
+<video controls loop src=https://user-images.githubusercontent.com/100080689/216187866-9229941c-7d1c-4df1-872e-61b2c04be640.mp4 autoplay="autoplay"></video>
 <h2>Introduction</h2>
 <p>Implementation of object detection on the model yolo v5 based on images obtained from the game Grand Theft Auto: San Andreas. 
 Datebase consists of 1397 screenshots from the game. I have divided the images into 4 groups:
@@ -13,7 +13,7 @@ Datebase consists of 1397 screenshots from the game. I have divided the images i
 <h2>Training</h2>
 <p>
 The layout of the network was made on the website <a href="https://universe.roboflow.com/riumin/gtasas#">https://universe.roboflow.com/riumin/gtasas</a>(<small>this is my already marked up project</small>). 
-I will omit the training process, but I conducted it on <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb#">Google Colab</a>.
+I will omit the training process, but I conducted it on <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb#">Google Colab</a>.</p>
 <h2>The characteristics of my laptop</h2>
 <ul>
     <li>NVIDIA GeForce MX150</li>
