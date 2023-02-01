@@ -5,10 +5,10 @@
 Datebase consists of 1397 screenshots from the game. I have divided the images into 4 groups:
 </p>
 <ul>
-<li>Cops (this includes all kinds of services that perform the role of the police)</li>
-<li>GangB(Ballas Gang)</li>
-<li>GangV (Los Santos Vagos Gang)</li>
-<LI>Corpses (this includes all the characters who died)</li>
+<li>Cops (this includes all kinds of services that perform the role of the police)<br><img src="./cops.jfif" alt="Cops" height="270px"></li>
+<li>GangB(Ballas Gang) <br><img src="./gangV.jpg" alt="GangB" height="270px"></li>
+<li>GangV (Los Santos Vagos Gang)<br><img src="./gangB.jpg" alt="GangV" height="270px"></li>
+<LI>Corpses (this includes all the characters who died)<br><img src="./corpes.jpg" alt="Corpes" height="270px"></li>
 </ul>
 <h2>Training</h2>
 <p>
