@@ -25,6 +25,8 @@ I will omit the training process, but I conducted it on <a href="https://colab.r
 -The <a href="https://github.com/RiuminIa/GTA_ObjectDetectionWithYoloV5/blob/master/peopleDetectedGta.py">peopleDetected</a> class contains the basic functionality of object detection.<br>
 -The program uses the framework <a href="https://pytorch.org/#">PyTorch</a> to work with the neural network and the library <a href="https://opencv.org/#">openCV</a> to work with images.<br>
 In this repository the code with which you can test the obtained scales. On my slow laptop I managed to achieve 8-10 fps. Taking into account the fact that the <a href="https://github.com/RiuminIa/GTA_ObjectDetectionWithYoloV5/blob/master/peopleDetectedGta.py#L10">GPU</a> is involved.</p>
+<h2>Examples</h2>
+<div><img src="./images/1.jpg" height="500px"><img src="./images/2.jpg"  height="500px"><img src="./images/5.jpg" height="500px"></div><img src="./images/7.jpg" height="500px"><img src="./images/9.jpg" height="500px"><img src="./images/10.jpg" height="500px"><img src="./images/14.jpg" height="500px">
 <h2>Conclusion</h2>
 <p>Most successfully detected cops and corpses. This is due to the fact that for these classes had the most images. 
 Also a very high percentage of false positives, as I in my data base almost no images in which there are no classes.</p>
