@@ -1,5 +1,5 @@
 <h1>Grand Theft Auto Object Detection</h1>
-<!-- <video src='video1.mov' width=180/> | <video src='video2.mp4' width=180/> -->
+<video src='./gtaSA.mp4' width=180/> 
 <h2>Introduction</h2>
 <p>Implementation of object detection on the model yolo v5 based on images obtained from the game Grand Theft Auto: San Andreas. 
 Datebase consists of 1397 screenshots from the game. I have divided the images into 4 groups:
